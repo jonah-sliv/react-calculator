@@ -10,7 +10,7 @@ Languages:
   <li>CSS</li>
 </ul>
 
-Libraries/Frameworks
+Libraries/Frameworks:
 <ul>
   <li>React</li>
 </ul>

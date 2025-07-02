@@ -6,9 +6,8 @@ This is a very simple calculator with basic math operations: addition, subtracti
 
 Languages:
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
   <li>JavaScript</li>
+  <li>CSS</li>
 </ul>
 
 Libraries/Frameworks
